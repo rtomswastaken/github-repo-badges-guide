@@ -1,4 +1,4 @@
-# GitHub Repo Badges & Achievements Guide
+# GitHub Badges & Achievements Guide
 
 A complete, accurate reference and tutorial guide for unlocking every GitHub profile achievement, badge tier, and account highlight.
 
